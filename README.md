@@ -1,10 +1,11 @@
 <div align="center">
-  
+  <img src="https://github.com/InternScience/.github/blob/main/assets/logo1.png" width="40%" alt="logo">
+</div>
+<div align="center">
    <div>
     <a href="https://xhslink.com/m/7OE33jupXvy"><img src="https://img.shields.io/badge/Redbook-red?style=flat&logo=xiaohongshu&logoColor=white"/></a>
     <a href="https://huggingface.co/InternScience"><img src="https://img.shields.io/badge/HuggingFace-yellow?style=flat&logo=huggingface&logoColor=#ffd21e"/></a>
-    </div></a>
-    
+    </div></a>    
 </div>
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/InternScience)
