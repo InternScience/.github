@@ -5,7 +5,7 @@
    <div>
     <a href="https://xhslink.com/m/7OE33jupXvy"><img src="https://img.shields.io/badge/Redbook-red?style=flat&logo=xiaohongshu&logoColor=white"/></a>
     <a href="https://huggingface.co/InternScience"><img src="https://img.shields.io/badge/HuggingFace-yellow?style=flat&logo=huggingface&logoColor=#ffd21e"/></a>
-    <a href="https://github.com/InternScience/.github/blob/main/assets/assets/wechat.png"><img src="https://img.shields.io/badge/WeChat-brightgreen?style=flat&logo=WeChat&logoColor=green"/></a>
+    <a href="https://github.com/InternScience/.github/blob/main/assets/wechat.png"><img src="https://img.shields.io/badge/WeChat-brightgreen?style=flat&logo=WeChat&logoColor=green"/></a>
     </div></a>    
 </div>
 
